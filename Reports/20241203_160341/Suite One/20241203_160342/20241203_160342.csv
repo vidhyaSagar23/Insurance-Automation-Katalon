@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite One,Chrome 131.0.0.0,,,03-12-2024 16:03:48,03-12-2024 16:04:28,40.565s,PASSED
+,,,,,,,
+Test Cases/Calculate Life Insurance/TC - 1 Calculate Life Insurance,Chrome 131.0.0.0,,,03-12-2024 16:03:48,03-12-2024 16:04:12,24.314s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 131.0.0.0,,,03-12-2024 16:03:48,03-12-2024 16:04:00,11.468s,PASSED
+"common.Utilities.calculateInsuranceValue(individualIncome, retirementAge, totalDept, dependentsFunds, savedOrInvested, savedForRetirement, howMuchInsuranceHave, expectedCostsFuneral)",Chrome 131.0.0.0,,,03-12-2024 16:04:00,03-12-2024 16:04:11,11.286s,PASSED
+"common.Utilities.verifyResult(findTestObject(""Object Repository/Result Page/span_resultValue""), expectedResultValue)",Chrome 131.0.0.0,,,03-12-2024 16:04:11,03-12-2024 16:04:12,0.449s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 131.0.0.0,,,03-12-2024 16:04:12,03-12-2024 16:04:12,0.467s,PASSED
+,,,,,,,
+Test Cases/Calculate Life Insurance/TC - 2 Drag and Increase the Individual Income,Chrome 131.0.0.0,,,03-12-2024 16:04:12,03-12-2024 16:04:28,15.956s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 131.0.0.0,,,03-12-2024 16:04:12,03-12-2024 16:04:22,9.611s,PASSED
+common.InsuranceDetails.clickUsingProgressBar(),Chrome 131.0.0.0,,,03-12-2024 16:04:22,03-12-2024 16:04:27,5.360s,PASSED
+"common.Utilities.verifyResult(findTestObject(""Object Repository/Result Page/span_resultValue""), expectedValue)",Chrome 131.0.0.0,,,03-12-2024 16:04:27,03-12-2024 16:04:28,0.500s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 131.0.0.0,,,03-12-2024 16:04:28,03-12-2024 16:04:28,0.358s,PASSED

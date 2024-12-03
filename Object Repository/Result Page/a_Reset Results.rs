@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reset Results</name>
+   <tag></tag>
+   <elementGuidId>198043cd-a6e0-4a60-af1a-9489d4760a7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.bt-reset-results</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='lic-results']/div[3]/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0c8f5693-9888-4526-a3d2-56b5ccceec10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/individuals/life-insurance-calculator/default.aspx</value>
+      <webElementGuid>69bd853f-7a15-4fd2-b667-160cf54f4615</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bt-reset-results</value>
+      <webElementGuid>57e9d5ad-8205-4ca5-a71b-ef2da6490712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reset Results</value>
+      <webElementGuid>dae04546-d4c0-433c-bc7b-1f5f0229fcbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lic-results&quot;)/div[@class=&quot;licResults-results&quot;]/div[@class=&quot;licResults-copy&quot;]/a[@class=&quot;bt-reset-results&quot;]</value>
+      <webElementGuid>8ab2743a-23a8-4964-846e-577378676f4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lic-results']/div[3]/div[2]/a[2]</value>
+      <webElementGuid>7808ed10-b056-4531-a060-d6e6f0fde163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reset Results')]</value>
+      <webElementGuid>50bdf027-c03b-4778-9a9f-37c839bb78f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request a Quote'])[1]/following::a[1]</value>
+      <webElementGuid>0aa7b221-a8c3-4282-9c21-8554abd137a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[8]/following::a[2]</value>
+      <webElementGuid>30f17ddb-63f1-443e-8dec-8e3233b37abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Competitive'])[1]/preceding::a[1]</value>
+      <webElementGuid>bc0cd6bb-787f-47c3-b72c-355d80d54bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='weekly rates as low as a gallon of gas*'])[1]/preceding::a[1]</value>
+      <webElementGuid>73ae5336-0c0e-476e-b9ac-454910a75079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reset Results']/parent::*</value>
+      <webElementGuid>5d443232-8901-4ba4-82cb-94cb80e3a4d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/individuals/life-insurance-calculator/default.aspx')])[2]</value>
+      <webElementGuid>7c4851ad-76fe-4366-9ab0-aec7ac44603c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>b4d9b41c-aae4-4359-9a93-112b51649814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/individuals/life-insurance-calculator/default.aspx' and (text() = 'Reset Results' or . = 'Reset Results')]</value>
+      <webElementGuid>49ba9c50-1f56-45c7-a2a3-9c7c8915514d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

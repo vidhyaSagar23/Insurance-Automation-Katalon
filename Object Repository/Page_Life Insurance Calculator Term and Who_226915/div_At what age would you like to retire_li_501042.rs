@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_At what age would you like to retire_li_501042</name>
+   <tag></tag>
+   <elementGuidId>2cbabc83-e0fb-4357-aa86-803d85c4861e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.question.question--3.question--required > div.lic-range-container > div.lic-range-slider > div.lic-range-hitfield</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagebgwide']/div[2]/div/div[2]/form/div[2]/div[3]/div[2]/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bcdb5216-f2c5-4545-bbcc-3efd185af478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lic-range-hitfield</value>
+      <webElementGuid>9edf0fbd-3e5c-4a04-bcee-c28054189b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagebgwide&quot;)/div[@class=&quot;lic is-home&quot;]/div[@class=&quot;lic-home active&quot;]/div[@class=&quot;questionnaire-container&quot;]/form[@class=&quot;questionnaire lic-questionnaire&quot;]/div[@class=&quot;questionnaire-cnt&quot;]/div[@class=&quot;question question--3 question--required&quot;]/div[@class=&quot;lic-range-container&quot;]/div[@class=&quot;lic-range-slider&quot;]/div[@class=&quot;lic-range-hitfield&quot;]</value>
+      <webElementGuid>5f4c93d3-0b2a-4d42-a3a2-f9c7b4b98846</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagebgwide']/div[2]/div/div[2]/form/div[2]/div[3]/div[2]/div[2]/div[4]</value>
+      <webElementGuid>337b77bb-4c9a-45ee-b99b-600e2169417a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div[4]</value>
+      <webElementGuid>3eee3634-07e0-4c11-8736-02fb623ed384</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

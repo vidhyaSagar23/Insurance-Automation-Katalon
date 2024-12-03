@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suite One" time="40.565" tests="2" failures="0" errors="0">
+   <testsuite name="Suite One" tests="2" failures="0" errors="0" time="40.565" skipped="0" timestamp="03-12-2024T16:03:48" hostname="vidhyasagar.elangova - 192.168.2.198" id="Test Suites/Suite One">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\SAGAR WORK\\Katalon\\Insurance-Automation-Katalon\\Reports\\20241203_160341\\Suite One\\20241203_160342"/>
+         <property name="logFiles" value="C:\\SAGAR WORK\\Katalon\\Insurance-Automation-Katalon\\Reports\\20241203_160341\\Suite One\\20241203_160342\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="vidhyasagar.elangova - 192.168.2.198"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.2.198"/>
+         <property name="sessionId" value="6296ec4fddfad14d8e382f0f3d37f7e7"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Calculate Life Insurance/TC - 1 Calculate Life Insurance" time="24.314" classname="Test Cases/Calculate Life Insurance/TC - 1 Calculate Life Insurance" status="PASSED">
+         <system-out><![CDATA[03-12-2024T16:03:48 - [TEST_CASE][PASSED] - Test Cases/Calculate Life Insurance/TC - 1 Calculate Life Insurance: Test Cases/Calculate Life Insurance/TC - 1 Calculate Life Insurance
+
+03-12-2024T16:03:48 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.aflac.com/individuals/life-insurance-calculator/default.aspx#lic/results' successfully
+
+03-12-2024T16:03:48 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+03-12-2024T16:03:48 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+03-12-2024T16:03:48 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-12-2024T16:03:48 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-12-2024T16:03:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-12-2024T16:03:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-12-2024T16:03:51 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'https://www.aflac.com/individuals/life-insurance-calculator/default.aspx#lic/results' successfully
+
+03-12-2024T16:04:00 - [MESSAGE][PASSED] - Navigate to 'https://www.aflac.com/individuals/life-insurance-calculator/default.aspx#lic/results' successfully
+
+03-12-2024T16:04:00 - [TEST_STEP][PASSED] - common.Utilities.calculateInsuranceValue(individualIncome, retirementAge, totalDept, dependentsFunds, savedOrInvested, savedForRetirement, howMuchInsuranceHave, expectedCostsFuneral): common.Utilities.calculateInsuranceValue is PASSED
+
+03-12-2024T16:04:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Result Page/a_Reset Results' is clicked on
+
+03-12-2024T16:04:04 - [MESSAGE][PASSED] - Text '60000' is set on object 'Object Repository/Calculations Page/input__individual income'
+
+03-12-2024T16:04:05 - [MESSAGE][PASSED] - Text '57' is set on object 'Object Repository/Calculations Page/input_retirement age'
+
+03-12-2024T16:04:06 - [MESSAGE][PASSED] - Text '5000' is set on object 'Object Repository/Calculations Page/input__totalDept'
+
+03-12-2024T16:04:07 - [MESSAGE][PASSED] - Text '2000' is set on object 'Object Repository/Calculations Page/input__dependentsFund'
+
+03-12-2024T16:04:08 - [MESSAGE][PASSED] - Text '6000' is set on object 'Object Repository/Calculations Page/input__savedOrInvested'
+
+03-12-2024T16:04:09 - [MESSAGE][PASSED] - Text '10000' is set on object 'Object Repository/Calculations Page/input__savedForRetirement'
+
+03-12-2024T16:04:10 - [MESSAGE][PASSED] - Text '3000' is set on object 'Object Repository/Calculations Page/input__howMuchInsuranceHave'
+
+03-12-2024T16:04:11 - [MESSAGE][PASSED] - Text '8300' is set on object 'Object Repository/Calculations Page/input__expectedCostFuneral'
+
+03-12-2024T16:04:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Calculations Page/a_Calculate Results' is clicked on
+
+03-12-2024T16:04:11 - [MESSAGE][PASSED] - common.Utilities.calculateInsuranceValue is PASSED
+
+03-12-2024T16:04:11 - [TEST_STEP][PASSED] - common.Utilities.verifyResult(findTestObject("Object Repository/Result Page/span_resultValue"), expectedResultValue): common.Utilities.verifyResult is PASSED
+
+03-12-2024T16:04:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Result Page/span_resultValue' are matched.
+
+03-12-2024T16:04:12 - [MESSAGE][PASSED] - common.Utilities.verifyResult is PASSED
+
+03-12-2024T16:04:12 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-12-2024T16:04:12 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+03-12-2024T16:04:12 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+03-12-2024T16:04:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-12-2024T16:04:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Calculate Life Insurance/TC - 2 Drag and Increase the Individual Income" time="15.956" classname="Test Cases/Calculate Life Insurance/TC - 2 Drag and Increase the Individual Income" status="PASSED">
+         <system-out><![CDATA[03-12-2024T16:04:12 - [TEST_CASE][PASSED] - Test Cases/Calculate Life Insurance/TC - 2 Drag and Increase the Individual Income: Test Cases/Calculate Life Insurance/TC - 2 Drag and Increase the Individual Income
+
+03-12-2024T16:04:12 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Navigate to 'https://www.aflac.com/individuals/life-insurance-calculator/default.aspx#lic/results' successfully
+
+03-12-2024T16:04:12 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+03-12-2024T16:04:12 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseVariables()): null
+
+03-12-2024T16:04:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-12-2024T16:04:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-12-2024T16:04:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-12-2024T16:04:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-12-2024T16:04:14 - [TEST_STEP][PASSED] - navigateToUrl(url): Navigate to 'https://www.aflac.com/individuals/life-insurance-calculator/default.aspx#lic/results' successfully
+
+03-12-2024T16:04:22 - [MESSAGE][PASSED] - Navigate to 'https://www.aflac.com/individuals/life-insurance-calculator/default.aspx#lic/results' successfully
+
+03-12-2024T16:04:22 - [TEST_STEP][PASSED] - common.InsuranceDetails.clickUsingProgressBar(): common.InsuranceDetails.clickUsingProgressBar is PASSED
+
+03-12-2024T16:04:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Life Insurance Calculator Term and Who_226915/a_Reset Results' is clicked on
+
+03-12-2024T16:04:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Life Insurance Calculator Term and Who_226915/div__lic-range-hitfield' is clicked on
+
+03-12-2024T16:04:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Life Insurance Calculator Term and Who_226915/div_At what age would you like to retire_li_501042' is clicked on
+
+03-12-2024T16:04:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Life Insurance Calculator Term and Who_226915/div__lic-range-hitfield_1' is clicked on
+
+03-12-2024T16:04:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Life Insurance Calculator Term and Who_226915/div__lic-range-hitfield_1_2' is clicked on
+
+03-12-2024T16:04:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Life Insurance Calculator Term and Who_226915/a_Calculate Results' is clicked on
+
+03-12-2024T16:04:27 - [MESSAGE][PASSED] - common.InsuranceDetails.clickUsingProgressBar is PASSED
+
+03-12-2024T16:04:27 - [TEST_STEP][PASSED] - common.Utilities.verifyResult(findTestObject("Object Repository/Result Page/span_resultValue"), expectedValue): common.Utilities.verifyResult is PASSED
+
+03-12-2024T16:04:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Result Page/span_resultValue' are matched.
+
+03-12-2024T16:04:28 - [MESSAGE][PASSED] - common.Utilities.verifyResult is PASSED
+
+03-12-2024T16:04:28 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Browser is closed
+
+03-12-2024T16:04:28 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseId()): null
+
+03-12-2024T16:04:28 - [TEST_STEP][PASSED] - println(testCaseContext.getTestCaseStatus()): null
+
+03-12-2024T16:04:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-12-2024T16:04:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-12-2024T16:03:48 - [TEST_SUITE][PASSED] - Suite One: Test Cases/Calculate Life Insurance/TC - 2 Drag and Increase the Individual Income]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

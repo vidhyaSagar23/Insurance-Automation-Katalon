@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 2 Drag and Increase the Individual Income</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4b03990-dd67-4f69-a6aa-ed97ba377e33</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cdeb80c3-7df8-4376-9a7e-c3ce0321b607</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'789,747'</defaultValue>
+      <description></description>
+      <id>cdeb80c3-7df8-4376-9a7e-c3ce0321b607</id>
+      <masked>false</masked>
+      <name>expectedValue</name>
+   </variable>
+</TestCaseEntity>

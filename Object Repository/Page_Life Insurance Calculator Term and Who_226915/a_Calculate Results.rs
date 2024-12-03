@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Calculate Results</name>
+   <tag></tag>
+   <elementGuidId>1e6a6aec-afe8-416e-8fee-a9ed4146b3df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.bt-action.bt-action-centered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagebgwide']/div[2]/div/div[2]/form/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3ccb3336-d9b7-4141-b93a-619126e5ce10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bt-action bt-action-centered</value>
+      <webElementGuid>1fd16b87-e5cd-43ae-852b-7cda80bce7a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/lic/results</value>
+      <webElementGuid>ead91575-e789-4c91-808e-9a0a3e5c519d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calculate Results</value>
+      <webElementGuid>3611c04c-0bc7-48b2-8728-9c920a9f7004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagebgwide&quot;)/div[@class=&quot;lic is-home&quot;]/div[@class=&quot;lic-home active&quot;]/div[@class=&quot;questionnaire-container&quot;]/form[@class=&quot;questionnaire lic-questionnaire&quot;]/div[@class=&quot;questionnaire-footer&quot;]/a[@class=&quot;bt-action bt-action-centered&quot;]</value>
+      <webElementGuid>c8460743-e4b7-42d4-8caa-b859aa951954</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagebgwide']/div[2]/div/div[2]/form/div[3]/a</value>
+      <webElementGuid>6e6b291c-f1a6-4cdb-9d7d-cfbb7fb717ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Calculate Results')]</value>
+      <webElementGuid>0b137e54-89a7-492f-afaf-a07ad15f401f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The value must be between 0 and 24,000'])[1]/following::a[1]</value>
+      <webElementGuid>aee49dba-ea9c-4164-a48e-5970bad720d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$24K+'])[1]/following::a[1]</value>
+      <webElementGuid>ea9b5679-03a2-4a5f-98a7-d32a305906b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefits of Life Insurance'])[1]/preceding::a[1]</value>
+      <webElementGuid>7a535c6f-2c92-4479-9e5a-70ae8161ba40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn More'])[1]/preceding::a[1]</value>
+      <webElementGuid>1997de24-9f98-4ad9-b067-7f86d2bdb70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Calculate Results']/parent::*</value>
+      <webElementGuid>65ca0e53-5769-444d-b0ec-216a784841c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/lic/results')]</value>
+      <webElementGuid>b39e5e3a-ae80-483d-9377-fcd90bca1d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/a</value>
+      <webElementGuid>53d7a905-3920-415e-b3a5-e2466bcd5a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/lic/results' and (text() = 'Calculate Results' or . = 'Calculate Results')]</value>
+      <webElementGuid>99bab2d9-ca47-4231-88b9-c9a7d8438de8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

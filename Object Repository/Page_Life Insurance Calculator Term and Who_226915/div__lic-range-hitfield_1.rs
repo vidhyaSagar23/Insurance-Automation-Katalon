@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__lic-range-hitfield_1</name>
+   <tag></tag>
+   <elementGuidId>34e82c78-3c1a-4148-9060-e0c955fd5f9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.question.question--5.question--required > div.lic-range-container > div.lic-range-slider > div.lic-range-hitfield</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagebgwide']/div[2]/div/div[2]/form/div[2]/div[7]/div[2]/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af180bef-a12e-4b14-8d6b-312945940380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lic-range-hitfield</value>
+      <webElementGuid>284eee6f-2949-4fcf-b4c5-6951b8017ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagebgwide&quot;)/div[@class=&quot;lic is-home&quot;]/div[@class=&quot;lic-home active&quot;]/div[@class=&quot;questionnaire-container&quot;]/form[@class=&quot;questionnaire lic-questionnaire&quot;]/div[@class=&quot;questionnaire-cnt&quot;]/div[@class=&quot;question question--5 question--required&quot;]/div[@class=&quot;lic-range-container&quot;]/div[@class=&quot;lic-range-slider&quot;]/div[@class=&quot;lic-range-hitfield&quot;]</value>
+      <webElementGuid>46b37dcb-c1f3-4dc5-9318-4e50802ece3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagebgwide']/div[2]/div/div[2]/form/div[2]/div[7]/div[2]/div[2]/div[4]</value>
+      <webElementGuid>4acf1739-c9c5-4521-9678-15b0ad114c37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div[2]/div[4]</value>
+      <webElementGuid>0b8b69df-da3f-484c-930d-597dfa94fc87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

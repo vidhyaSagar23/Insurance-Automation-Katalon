@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1,004,747</name>
+   <tag></tag>
+   <elementGuidId>9aa31fd7-c90a-4b0b-a7cf-c633643d9325</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.licResults-amount.is-blue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='lic-results']/div[3]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2fbdaa44-acc7-4dc0-ab71-b7ea43342b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>licResults-amount is-blue</value>
+      <webElementGuid>53c11b3f-637d-4052-916f-06798e1de9fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1,004,747</value>
+      <webElementGuid>873ad168-c8c6-4cb8-a076-64d0a8484193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lic-results&quot;)/div[@class=&quot;licResults-results&quot;]/div[@class=&quot;results-box&quot;]/span[@class=&quot;licResults-amount is-blue&quot;]</value>
+      <webElementGuid>643ee41b-df8b-48fa-94fb-6a87f38bfeb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lic-results']/div[3]/div/span[2]</value>
+      <webElementGuid>6b478810-955a-4924-8211-303a66a6875f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[8]/following::span[1]</value>
+      <webElementGuid>f9670ba4-83a3-4864-8a20-c7aadd5ba982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Life Insurance Results'])[1]/following::span[2]</value>
+      <webElementGuid>bacd34e5-8bd3-4bc9-a6bb-ed6b2f07e99a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request a Quote'])[1]/preceding::span[1]</value>
+      <webElementGuid>58748921-7d86-42d8-90b8-f68fca2029b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Results'])[1]/preceding::span[1]</value>
+      <webElementGuid>9d87da06-7c41-4525-9301-768cc8404205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1,004,747']/parent::*</value>
+      <webElementGuid>cdfda318-bca1-476b-acbd-97a64b9420fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>978a20c1-67f6-4111-8ba8-a7b167160ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1,004,747' or . = '1,004,747')]</value>
+      <webElementGuid>b4ce5c48-b4f2-4e99-899d-7288fd2bfbc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
